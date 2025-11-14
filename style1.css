@@ -1,0 +1,16 @@
+.j{
+    height:300px;
+    width:700px;
+    border:2px solid black;
+}
+.j2{
+    height:150px;
+    width:500px;
+    border:30px solid blue;
+    text-align: center;
+    align-content: center;
+    margin: 10px 100px;
+    background-color: yellow;
+    margin-left: 100px;
+    
+}

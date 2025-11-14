@@ -1,0 +1,32 @@
+p{
+    color:red;
+    font-size:20px;
+}
+.vk{
+    color: green;
+
+}
+#vk{
+    color: purple;
+}
+ /* div{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    text-align: center;
+    align-content: center;
+    padding: 5px;
+    margin: 10px 200px;
+    border: 1px solid red; 
+} */
+.vk{
+    height:200px;
+    width:800px;
+    border: 3px solid black;
+}
+.k{
+    color:blueviolet;
+}
+.j{
+    color:brown;
+}
