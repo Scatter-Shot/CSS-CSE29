@@ -18,6 +18,14 @@
     width: 100px;
     column-gap: 30px;
     flex-wrap: wrap;
+    flex-grow: 1;
 
 
+}
+.item1 {
+    background-color: lightcoral;
+    flex-shrink: -2 ;
+}.item2 {
+    background-color: lightseagreen;
+    flex-grow: 2 ;
 }
