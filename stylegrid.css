@@ -8,6 +8,8 @@
     grid-template-rows: repeat(3, 1fr);
     grid-template-areas: "header header header header""main main . sidebar"
     "footer footer footer footer";
+    justify-items: center;
+    justify-items: stretch;
 }
 .item{
     background-color: red;
@@ -18,7 +20,7 @@
     text-align: center;
     align-content: center;
 }
-.item1{
+/* .item1{
     grid-area:header;
 }
 .item2{
@@ -29,4 +31,4 @@
 }
 .item4{
     grid-area:footer;
-}
+} */
